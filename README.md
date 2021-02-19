@@ -5,8 +5,7 @@ Provide lightning support for your customers with the [Magento 2 Zendesk Chat](h
 
 
 
-
-
+<a href="https://magefan.com/magento-2-zendesk-chat-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
 ## Benefits
 
 * No website speed decline
