@@ -70,3 +70,4 @@ Zendesk Chat offers you the opportunity to grow, develop and improve your custom
   * [Magento 2 Zero Downtime Deployment](https://magefan.com/blog/magento-2-zero-downtime-deployment)
   * [Magento 2 Better Order Grid Extension](https://magefan.com/magento-2-better-order-grid-extension)
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
+  * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
