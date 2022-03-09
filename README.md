@@ -1,11 +1,13 @@
 # Magento 2 Zendesk Chat Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-zendesk-chat.webp">
 
 Provide lightning support for your customers with the [Magento 2 Zendesk Chat](https://magefan.com/magento-2-zendesk-chat-extension), extension that allows you to integrate zopim chat into your Magento 2 with no harm to your website performance.
 
 
 
-<a href="https://magefan.com/magento-2-zendesk-chat-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+<a href="https://magefan.com/magento-2-zendesk-chat-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 ## Benefits
 
 * No website speed decline
