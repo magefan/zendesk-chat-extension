@@ -42,6 +42,13 @@ Zendesk Chat offers you the opportunity to grow, develop and improve your custom
 **Configuration**
 * [How to Configure Magento 2 Zendesk Chat Extension?](https://magefan.com/magento-2-zendesk-chat-extension/configuration)
 
+## Need More Features?
+Please contact us to get a quote
+https://magefan.com/contact
+
+## License
+The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
+
 ## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
